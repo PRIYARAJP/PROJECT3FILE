@@ -27,7 +27,21 @@ body{
     flex-flow:row wrap;
     justify-content: center;
     align-items: center;
+   
+
 }
+@media only screen and (max-width: 856px ){
+       
+    .cg4{
+     height: auto;
+    }
+ }
+ @media only screen and (max-width: 460px ){
+    
+     .cg4{
+        height: auto;
+    }
+ }
 .cards1{
     width: 350px;
     height: 350px;
